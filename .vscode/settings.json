@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/backend/DR-doom-Day-2-Backend/.venv/bin/python",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/backend/DR-doom-Day-2-Backend/app",
+        "${workspaceFolder}/backend/DR-doom-Day-2-Backend/.venv/lib/python3.14/site-packages"
+    ]
+}
